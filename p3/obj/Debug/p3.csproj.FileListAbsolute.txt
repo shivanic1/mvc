@@ -1,0 +1,7 @@
+c:\users\dell\source\repos\p3\p3\bin\Debug\p3.exe.config
+c:\users\dell\source\repos\p3\p3\bin\Debug\p3.exe
+c:\users\dell\source\repos\p3\p3\bin\Debug\p3.pdb
+c:\users\dell\source\repos\p3\p3\obj\Debug\p3.csproj.CoreCompileInputs.cache
+c:\users\dell\source\repos\p3\p3\obj\Debug\p3.exe
+c:\users\dell\source\repos\p3\p3\obj\Debug\p3.pdb
+c:\users\dell\source\repos\p3\p3\obj\Debug\p3.csprojAssemblyReference.cache
